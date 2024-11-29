@@ -3,6 +3,7 @@
 [[package]]
 name = "aiohappyeyeballs"
 version = "2.4.3"
+authors
 description = "Happy Eyeballs for asyncio"
 optional = false
 python-versions = ">=3.8"
